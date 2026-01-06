@@ -1,1 +1,47 @@
-
+{
+  "composition": {
+    "balance": "symmetrical",
+    "framing": "centered"
+  },
+  "environment": {
+    "background": "simple, light color",
+    "branch": {
+      "color": "green",
+      "position": "above the monkey",
+      "type": "vine"
+    }
+  },
+  "image_type": "illustration",
+  "subject": {
+    "expression": "happy and playful",
+    "features": {
+      "belly_color": "light beige",
+      "body_color": "brown",
+      "ears": "round and prominent",
+      "eye_color": "black",
+      "eye_shape": "large and round",
+      "limbs": {
+        "arms": "long and flexible",
+        "hands": "waving"
+      },
+      "tail": "curled"
+    },
+    "pose": "hanging from a branch",
+    "species": "monkey",
+    "type": "animal"
+  },
+  "visual_elements": {
+    "color_palette": [
+      "brown",
+      "light beige",
+      "green",
+      "black"
+    ],
+    "details": {
+      "outline": "thick black outline",
+      "shadows": "minimal",
+      "texture": "smooth"
+    },
+    "style": "cartoonish"
+  }
+}
